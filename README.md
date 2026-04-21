@@ -1,3 +1,4 @@
+@@ -1,33 +1,31 @@
 <style>
 body {
   background-color: #0A0A0A;
@@ -13,7 +14,7 @@ h1, h2, h3 {
 }
 </style>
 
-##AhmetEymen
+# Ahmet Eymen
 
 > Building systems. Self-hosting everything.
 
