@@ -13,8 +13,6 @@ h1, h2, h3 {
 }
 </style>
 
-# Ahmet Eymen
-
 > Building systems. Self-hosting everything.
 
 Homelab üzerinde servisler kuruyor, backend sistemler geliştiriyor ve altyapı otomasyonları ile ilgileniyorum.
