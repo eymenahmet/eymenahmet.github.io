@@ -1,3 +1,18 @@
+<style>
+body {
+  background-color: #0A0A0A;
+  color: #E6E6E6;
+}
+
+a {
+  color: #FFFFFF;
+}
+
+h1, h2, h3 {
+  color: #FFFFFF;
+}
+</style>
+
 # Ahmet Eymen
 
 > Building systems. Self-hosting everything.
